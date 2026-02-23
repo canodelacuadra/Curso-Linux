@@ -42,7 +42,17 @@ ssh curso@35.193.198.73
 
 ---
 
-## �🗂️ Estructura del Curso
+## 💾 Descarga de Máquinas Virtuales (OVA)
+
+Para las prácticas del curso se utilizan máquinas virtuales de **VirtualBox** en formato `.ova`. Puedes descargarlas desde el siguiente enlace de Google Drive:
+
+> 🔗 [**Descargar ficheros OVA — Google Drive**](https://drive.google.com/drive/folders/1KKANSazkd3hAHtfvnkl9tGUhVplvZMjJ?usp=drive_link)
+
+> ⚠️ **Nota:** Necesitas tener instalado [VirtualBox](https://www.virtualbox.org/) para importar y ejecutar las máquinas virtuales (`.ova`). Para importarlas, ve a **Archivo → Importar servicio virtualizado** y selecciona el fichero descargado.
+
+---
+
+## 🗂️ Estructura del Curso
 
 ### 📦 [MÓDULO 1: Linux para el Usuario](MODULO%201%3A%20LINUX%20PARA%20EL%20USUARIO/README.md)
 
